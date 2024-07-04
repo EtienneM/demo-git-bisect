@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/usr/games/cowsay "Scalingooooooo"
+/usr/games/cowsay "Scalingooooooo
